@@ -1,0 +1,4 @@
+dialogflow
+flask
+flask-cors
+google
